@@ -1,0 +1,9 @@
+BcsMain
+{
+int a; int b; int limit;
+a=1; b=2;
+if(a<b) { a=a+1 } else { b=b*2 };
+while(a<limit) { b=b+a; a=a+1 };
+limit=10
+}
+

@@ -1,0 +1,6 @@
+BcsMain
+{
+int x; int y;
+x=5; y= x + ; // Here is the issue
+while(x<10) { x = x + 1 };
+}
