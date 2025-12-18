@@ -1,0 +1,27 @@
+# Compiled / binary files
+*.exe
+*.out
+*.o
+*.class
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node / other
+node_modules/
