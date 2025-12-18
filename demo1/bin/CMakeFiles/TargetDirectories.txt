@@ -1,0 +1,9 @@
+/home/vishal/demo1/bin/CMakeFiles/CGAL_Qt5_moc_and_resources.dir
+/home/vishal/demo1/bin/CMakeFiles/prac.dir
+/home/vishal/demo1/bin/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/vishal/demo1/bin/CMakeFiles/cgal_check_build_system.dir
+/home/vishal/demo1/bin/CMakeFiles/compilation_of__CGAL_Qt5_moc_and_resources.dir
+/home/vishal/demo1/bin/CMakeFiles/edit_cache.dir
+/home/vishal/demo1/bin/CMakeFiles/rebuild_cache.dir
+/home/vishal/demo1/bin/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen_timestamp_deps.dir
+/home/vishal/demo1/bin/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir

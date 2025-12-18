@@ -1,0 +1,7 @@
+Intersection Results:
+Segment 1 & Segment 2: Yes, Intersection Point = (128, 57)
+Segment 1 & Segment 3: Yes, Intersection Point = (100, 50)
+Segment 1 & Segment 4: Yes, Intersection Point = (225.161, 81.2903)
+Segment 2 & Segment 3: Yes, Intersection Point = (100, 67.5)
+Segment 2 & Segment 4: No
+Segment 3 & Segment 4: Yes, Intersection Point = (100, 150.345)

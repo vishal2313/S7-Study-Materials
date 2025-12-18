@@ -1,0 +1,10 @@
+-I/home/vishal/CGAL-5.6/demo/Arrangement_on_surface_2/.
+-I/home/vishal/CGAL-5.6/build/include
+-I/home/vishal/CGAL-5.6/include
+-I/home/vishal/CGAL-5.6/build/demo/Arrangement_on_surface_2
+-I/home/vishal/CGAL-5.6/include
+-DQT_NO_KEYWORDS
+-DQT_NO_KEYWORDS
+-o
+/home/vishal/CGAL-5.6/build/demo/Arrangement_on_surface_2/moc_ArrangementDemoPropertiesDialog.cpp
+/home/vishal/CGAL-5.6/demo/Arrangement_on_surface_2/ArrangementDemoPropertiesDialog.h
